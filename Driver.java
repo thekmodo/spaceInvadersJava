@@ -1,5 +1,7 @@
 //The driver to create a window for the game and call game create once the window is made
-
+import model.*;
+//import controller.*;
+//import view.*;
 
 public class Driver{
 
